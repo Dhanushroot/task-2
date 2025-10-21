@@ -38,11 +38,10 @@ The analyzed email falsely claims that *Bradesco Livelo points are about to expi
 
 ```
 📦 Final_Phishing_Email_Analysis_Task2
-├── 📁 data
-│   └── phishing_email.eml            # Raw email file
-├── phishing_email_sample.txt         # Raw phishing email sample
-├── Phishing_Email_Analysis_Report.md # Detailed technical analysis
-└── README.md                         # Project overview (this file)
+
+├── phishing_email_sample.txt     # Raw phishing email sample
+├── phishing_email.eml            # Raw email file
+└── README.md                     # Project overview (this file)
 ```
 
 ---
